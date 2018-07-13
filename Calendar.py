@@ -1,5 +1,10 @@
+#Author: Ayan Bag
+
+# Importing required libraries
 import calendar
 from datetime import *
+
+#Creating function
 def choice():
     print("Enter 1 for Month View of Calender")
     print("Enter 2 for Todays Date with Time")
